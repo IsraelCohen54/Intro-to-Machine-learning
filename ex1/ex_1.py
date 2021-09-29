@@ -1,5 +1,3 @@
-
-# Press Shift+F10 to execute it or replace it with your code.
 import scipy.io.wavfile
 import sys
 import numpy as np
