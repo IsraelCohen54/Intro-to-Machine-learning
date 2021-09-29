@@ -2,7 +2,7 @@
 
 Course exercises with instructions, data needed, and code.
 
-ex1: k-means algorithm for sound compression (with some more things)
+ex1: k-means algorithm for sound compression (implementation from scratch)
 
 ex2:
 
