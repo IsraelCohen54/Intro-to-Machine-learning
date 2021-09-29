@@ -1,4 +1,4 @@
-# 205812290 313369183
+# Israel & Hananel
 
 import torch
 import sys
