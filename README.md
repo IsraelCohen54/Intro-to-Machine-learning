@@ -1,3 +1,3 @@
 # Intro-to-Machine-learning
 
-exercises with instructions, data needed, and code.
+Course exercises with instructions, data needed, and code.
